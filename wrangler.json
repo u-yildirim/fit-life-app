@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "fit-life-app",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "77b6f584-cd6d-4866-8f5c-436adfae4f06",
+			"database_name": "fit-life-app"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
